@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.0.4)
+    mercadopago-sdk (0.3.4)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mercadopago-sdk (= 0.3.4)
+
+BUNDLED WITH
+   1.16.0
